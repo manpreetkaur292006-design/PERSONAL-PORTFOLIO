@@ -1,0 +1,167 @@
+*{
+    margin: 0;
+    padding: 0;
+}    /* SETTING THE MARGIN AND PADDING TO 0 OF ALL THE ELEMENTS IN THE WEBSITE */
+
+body{
+    background-color: rgb(177, 177, 239);
+}   /* STYLING THE BODY TAG*/
+
+#top{
+    height: 150px;
+    line-height: 50px;
+ }  /* STYLING THE ELEMENT HAVING THE ID TOP */
+
+#top header{
+    color:white;
+    background-color: rgb(10, 27, 81);
+    font-family:'Times New Roman', Times, serif;
+    position:sticky;
+    text-align:center;
+    height: 100px;
+    top: 0;
+    transition: background 0.2s;
+}  /* STYLING THE ELEMENTS HAVING ID TOP AND ARE WITHIN THE HEADER TAG */
+
+#top header .a:hover{
+    color: rgb(255, 0, 0);
+    background-color: #484848;
+}  /* ADDING THE HOVER EFFECTS TO THE NAVIGATION BAR */
+
+.head{
+    color: rgb(2, 2, 48);
+    line-height: 50px; 
+}  /* STYLING THE ELEMENTS HAVING THE CLASS HEAD */
+
+p{
+    color:rgb(4, 4, 50);
+    line-height: 30px;
+}   /* STYLING ALL THE P TAGS */
+
+h3{
+    color:rgb(4, 4, 50);
+    line-height: 50px; 
+} /* STYLING ALL THE H3 TAGS */
+
+.a{
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+    font-weight: 1000;
+}  /* STYLING ALL THE ELEMENTS HAVING THE CLASS A */ 
+
+hr{
+    height: 1.5px;
+    width: 100%;
+    background-color: rgb(23, 23, 125);
+    align-items: center;
+}   /* STYLING ALL THE H3 TAGS */
+
+#main{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}    /* STYLING THE ELEMENT HAVING THE ID MAIN */
+
+#profile{
+    height:300px;
+    width:300px;
+    border: solid rgb(8, 0, 44) 3px;
+    border-radius: 50%;
+    margin: 10px;
+}   /* SYTLING THE ELEMENT HAVING THE ID PROFILE */
+
+.pimg{
+    height: 250px;
+    width: 400px;
+    border: solid rgb(26, 13, 82) 2px;
+    border-radius: 5px; 
+}   /* STYLING THE ELEMENTS HAVING THE CLASS PIMG */
+
+#Apex{
+    height: 350px;
+    width: 325px;
+    border: solid rgb(26, 13, 82) 2px;
+    border-radius: 5px;
+}   /* STYLING THE ELEMENT HAVING THE ID APEX */
+
+#AI{
+    height: 250px;
+    width: 400px;
+    border: solid rgb(26, 13, 82) 2px;
+    border-radius: 5px;
+}   /* STYLING THE ELEMENT HAVING THE ID AI */
+
+.social{
+    height: 80px;
+    width: 80px;
+    border: solid rgb(255, 255, 255) 2px;
+    border-radius: 45px;
+    margin: 0 20px;
+}   /* STYLING THE ELEMENTS HAVING THE CLASS SOCIAL */
+
+#table1{
+    border: 2px solid rgb(2, 14, 46);
+    color: white;
+}    /* STYLING THE ELEMENTS HAVING THE ID TABLE1 */
+
+.th1{
+    border: 2px double rgb(2, 24, 85);
+    background-color: rgb(3, 13, 49);
+    color: white;
+    padding: 5px;
+}   /* STYLING THE ELEMENTS HAVING CLASS TH1 */
+
+.td1{
+    border: 2px solid rgb(3, 18, 58);
+    background-color: rgb(87, 87, 166);
+    color: white;
+    padding: 5px;
+}    /* STYLING THE ELEMENTS HAVING CLASS TD1 */
+
+.table-container {
+  display: flex;
+  justify-content: center;
+  padding: 0%;
+}   /* STYLING THE ELEMENTS HAVING CLASS TABLE-CONTAINER */
+
+form #table2{
+    border: 2px solid rgb(0, 20, 75);
+    color: white;
+}   /* STYLING THE ELEMENTS HAVING ID TABLE2 INSIDE THE FORM TAG */
+
+form .td2{
+    border: 2px solid rgb(0,20,75);
+    background-color: rgb(0, 0, 57);
+    color: white;
+    padding: 5px;
+}   /* STYLING THE ELEMENTS HAVING CLASS TD2 INSIDE THE FORM TAG */
+
+input{
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+}   /* STYLING THE INPUT TAG */
+
+textarea{
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+}  /* STYLING THE TEXTAREA TAG */
+
+#backtotop{
+    border: 2px solid rgb(0, 1, 89);
+    background-color: white;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: small;
+    margin: 1px;
+    padding: 2px;
+    text-decoration: none;
+}  /* STYLING THE ELEMENT HAVING THE ID BACKTOTOP */
+
+mark{
+    color: rgb(2, 0, 31);
+    background-color: rgb(117, 117, 234);
+}  /* STYLING THE MARK TAG */
+
+footer{
+    text-align: center;
+}   /* STYLING THE FOOTER TAG */
