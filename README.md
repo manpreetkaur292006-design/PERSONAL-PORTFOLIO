@@ -9,6 +9,7 @@ When you click on the image the project will be opened in your screen that i hav
 After that you can see the certificated section in which i have attached the images of my certificates that i earned in my field till now.
 After that you can see the social media section , when you click on the icon you will reach at my corresponding social media profile.
 For example :- if you clicked on the youtube icon them you will reach on the home page of my youtube channel.
-After that you can see the contact me section in which you can see a feedback for along with a send and back to top button. On clicking the back to top button you will reach back to the top of the website.
+After that you can see the contact me section in which you can see a feedback for along with a send button . 
 In the end you can see the footer having a thank you message along with my submission details.
-This website provides more functions apart from the mentioned above.
+And on the bottom right corner you can see the back to top button. On clicking the back to top button you will reach back to the top of the website.
+Overall, this is a fully functional basic personal portfolio website made only by using basic html and css.
